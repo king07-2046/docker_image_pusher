@@ -8,5 +8,5 @@ whyour/qinglong:debian-python3.10
 xzxxn777/ddddocr
 #autman
 hdbjlizhe/autman:latest
-#autman
+#autman64
 hdbjlizhe/autman:arm64
