@@ -6,3 +6,5 @@
 whyour/qinglong:debian-python3.10
 #ocr
 xzxxn777/ddddocr
+#autman
+hdbjlizhe/autman:latest
