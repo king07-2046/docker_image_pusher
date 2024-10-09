@@ -10,3 +10,5 @@ xzxxn777/ddddocr
 hdbjlizhe/autman:latest
 #autman64
 hdbjlizhe/autman:arm64
+#无界
+anmour/bncr && docker attach bncr
