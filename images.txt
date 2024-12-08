@@ -12,3 +12,5 @@ hdbjlizhe/autman:latest
 hdbjlizhe/autman:arm64
 #无界
 anmour/bncr && docker attach bncr
+#JDCK
+dsmggm/autojdck:latest
